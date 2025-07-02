@@ -33,7 +33,7 @@ A real-time AI-driven weather chatbot that streams current conditions and short-
 1. **Clone the repo**
 
    ```bash
-   [git clone https://github.com/yourusername/weather-chatbot.git](https://github.com/Abhi081827/Sky-Weather-Bot.git)
+   git clone https://github.com/Abhi081827/Sky-Weather-Bot.git
    cd weather-chatbot
    ```
 
