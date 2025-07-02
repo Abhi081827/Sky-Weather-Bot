@@ -1,4 +1,4 @@
-````markdown
+
 # 🌥️ Sky Weather Chatbot
 
 A real-time AI-driven weather chatbot that streams current conditions and short-term forecasts over WebSockets using FastAPI, LangChain-Groq, and the OpenWeatherMap API. Users can ask up to 10 questions about temperature, sky conditions (sunny/cloudy), and wind speed (optional precipitation), and receive concise, friendly replies.
