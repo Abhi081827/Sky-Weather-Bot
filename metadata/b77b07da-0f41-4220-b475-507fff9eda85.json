@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:39:36.518547",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:39:36.524325",
+    "role": "user",
+    "text": "How is the weather going to develop over the next few days in Berlin?"
+  },
+  {
+    "timestamp": "2025-06-30T17:39:37.664467",
+    "role": "assistant",
+    "text": "Berlin!\n\nLet me check the forecast for you...\n\nHere's what I found:\n\n**Today:**\n* Temperature: 22\u00b0C\n* Humidity: 64%\n* Clouds: 75% (broken clouds)\n* Wind Speed: 4.12 m/s\n\n**Tomorrow:**\n* Temperature: 23\u00b0C\n* Humidity: 58%\n* Clouds: 40% (scattered clouds)\n* Wind Speed: 3.6 m/s\n\n**Day After Tomorrow:**\n* Temperature: 25\u00b0C\n* Humidity: 52%\n* Clouds: 20% (few clouds)\n* Wind Speed: 3.09 m/s\n\n**In 4 Days:**\n* Temperature: 24\u00b0C\n* Humidity: 56%\n* Clouds: 30% (scattered clouds)\n* Wind Speed: 3.35 m/s\n\nIt looks like Berlin is going to experience a mix of broken clouds and scattered clouds over the next few days, with temperatures ranging from 22\u00b0C to 25\u00b0C. The humidity will decrease gradually, and the wind speed will remain moderate.\n\nOverall, it's going to be a pleasant summer week in Berlin, with plenty of sunshine and comfortable temperatures!"
+  },
+  {
+    "timestamp": "2025-06-30T17:39:37.698003",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

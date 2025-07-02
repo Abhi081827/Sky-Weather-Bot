@@ -1,0 +1,12 @@
+[
+  {
+    "timestamp": "2025-06-30T05:09:25.560671",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T05:09:25.568879",
+    "role": "user",
+    "text": "yes"
+  }
+]

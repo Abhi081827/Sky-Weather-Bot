@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:02:09.855678",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:02:09.860506",
+    "role": "user",
+    "text": "whats the weather in mumbai"
+  },
+  {
+    "timestamp": "2025-06-30T17:02:10.923552",
+    "role": "assistant",
+    "text": "Mumbai! Currently, the weather in Mumbai is:\n\n**Temperature:** 28.89\u00b0C\n**Humidity:** 84%\n**Wind:** A gentle breeze of 3.6 m/s\n**Sky Conditions:** Overcast clouds\n\nLooking ahead, the forecast suggests:\n\n**Today:** The temperature will remain around 28.89\u00b0C, with overcast clouds and a high chance of precipitation (80%).\n\n**Tomorrow:** Expect a high of 28.33\u00b0C and a low of 26.67\u00b0C, with scattered clouds and a 60% chance of light rain.\n\n**The next 5 days:** The temperature will remain steady, with highs ranging from 28.33\u00b0C to 29.44\u00b0C and lows ranging from 26.67\u00b0C to 27.78\u00b0C. The sky will be a mix of overcast and scattered clouds, with a chance of light rain on some days.\n\nI hope that helps you plan your day in Mumbai!"
+  },
+  {
+    "timestamp": "2025-06-30T17:02:10.941160",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

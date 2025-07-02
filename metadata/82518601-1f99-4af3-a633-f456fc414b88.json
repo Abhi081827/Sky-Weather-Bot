@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:01:52.775831",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:01:52.781412",
+    "role": "user",
+    "text": "How is the weather going to develop over the next few days in Berlin?"
+  },
+  {
+    "timestamp": "2025-06-30T17:01:53.920500",
+    "role": "assistant",
+    "text": "Berlin! Over the next few days, the weather in Berlin will be quite interesting. Here's a breakdown:\n\n**Today:** It's currently partly cloudy with a temperature of 24.44\u00b0C and a gentle breeze of 3.09 m/s.\n\n**Tomorrow:** Expect a high of 23.33\u00b0C and a low of 16.67\u00b0C, with a mix of broken and overcast clouds. There's a 30% chance of light rain.\n\n**The day after tomorrow:** The sky will clear up, becoming mostly sunny with a high of 25.56\u00b0C and a low of 18.89\u00b0C.\n\n**In 3 days:** It will be partly cloudy again, with a high of 24.44\u00b0C and a low of 17.78\u00b0C.\n\n**In 4 days:** The sky will be overcast, with a high of 22.22\u00b0C and a low of 15.56\u00b0C.\n\n**In 5 days:** Expect a mix of broken and overcast clouds, with a high of 21.11\u00b0C and a low of 14.44\u00b0C.\n\nOverall, Berlin will experience a gentle temperature decline over the next few days, with some scattered clouds and a slight chance of rain.\n\nI hope that helps you plan your activities in Berlin!"
+  },
+  {
+    "timestamp": "2025-06-30T17:01:53.967455",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

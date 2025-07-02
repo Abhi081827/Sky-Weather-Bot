@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:40:42.478900",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:40:42.485961",
+    "role": "user",
+    "text": "whats the weather in berlin now"
+  },
+  {
+    "timestamp": "2025-06-30T17:40:53.602080",
+    "role": "assistant",
+    "text": "Thank you for providing the tool call result!\n\nSo, in Berlin, Germany, as of Monday, June 30, 2025, 17:40, the current weather is:\n\n* Temperature: 25.19\u00b0C\n* Humidity: 31%\n* Clouds: 14% (few clouds)\n* Wind Speed: 3.87 m/s\n* Conditions: few clouds\n\nAnd for the rest of the day and tomorrow, here's the forecast:\n\n* 18:00: 25.19\u00b0C, few clouds\n* 21:00: 23.7\u00b0C, clear sky\n* 00:00 (Tuesday): 20.02\u00b0C, clear sky\n* 03:00 (Tuesday): 15.86\u00b0C, clear sky\n* 06:00 (Tuesday): 20.26\u00b0C, clear sky\n\nLooks like Berlin is experiencing a lovely summer evening with few clouds and comfortable temperatures!"
+  },
+  {
+    "timestamp": "2025-06-30T17:40:53.653648",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

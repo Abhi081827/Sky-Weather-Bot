@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:01:10.218310",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:01:10.222450",
+    "role": "user",
+    "text": "What is the weather forecast for tomorrow in Paris?"
+  },
+  {
+    "timestamp": "2025-06-30T17:01:11.853540",
+    "role": "assistant",
+    "text": "The City of Light! Tomorrow's forecast for Paris looks like this:\n\n**Temperature:** Expect a high of 22.22\u00b0C and a low of 15.56\u00b0C.\n\n**Sky Conditions:** The sky will be mostly cloudy, with a mix of broken and overcast clouds.\n\n**Precipitation:** There's a chance of light rain, with a precipitation probability of 40%.\n\n**Wind:** A gentle breeze of 4.12 m/s will blow throughout the day.\n\n**UV Index:** Don't forget your sunscreen, as the UV index will be moderate, at 6.\n\nFor the rest of the 5-day forecast, here's a quick overview:\n\n* The next day will be partly cloudy with a high of 23.33\u00b0C and a low of 16.67\u00b0C.\n* On the third day, it will be mostly sunny with a high of 24.44\u00b0C and a low of 17.78\u00b0C.\n* The fourth day will bring scattered clouds with a high of 23.33\u00b0C and a low of 16.67\u00b0C.\n* On the fifth day, it will be overcast with a high of 22.22\u00b0C and a low of 15.56\u00b0C.\n\nI hope this helps you plan your trip to Paris!"
+  },
+  {
+    "timestamp": "2025-06-30T17:01:11.881139",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

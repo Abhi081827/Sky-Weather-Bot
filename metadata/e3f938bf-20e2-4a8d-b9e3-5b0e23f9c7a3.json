@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-07-01T03:47:03.904182",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-07-01T03:47:03.952600",
+    "role": "user",
+    "text": "What is the weather like in Frankfurt am Main?"
+  },
+  {
+    "timestamp": "2025-07-01T03:47:05.108740",
+    "role": "assistant",
+    "text": "Frankfurt am Main!\n\nLet me check the current weather for you...\n\n**Current Weather:**\n* Temperature: 24.11\u00b0C\n* Humidity: 43%\n* Clouds: 87% (overcast clouds)\n* Wind Speed: 4.7 m/s\n* Conditions: overcast clouds\n\nIt looks like Frankfurt am Main is experiencing an overcast day with a temperature of 24.11\u00b0C and moderate humidity. The wind is blowing at a speed of 4.7 m/s.\n\nWould you like to know the forecast for the next few days as well?"
+  },
+  {
+    "timestamp": "2025-07-01T03:47:05.153480",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

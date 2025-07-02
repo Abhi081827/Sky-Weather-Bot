@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T16:48:49.199333",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T16:48:49.206907",
+    "role": "user",
+    "text": "is it raining"
+  },
+  {
+    "timestamp": "2025-06-30T16:48:49.771638",
+    "role": "assistant",
+    "text": "According to the latest updates, it is not currently raining in Mumbai. However, as I mentioned earlier, there is a chance of moderate rain later tonight around 18:00, and light rain at 21:00. So, it's likely that rain will start falling in the evening."
+  },
+  {
+    "timestamp": "2025-06-30T16:48:49.801273",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

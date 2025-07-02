@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:00:26.252389",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:00:26.259826",
+    "role": "user",
+    "text": "What is the weather like in Frankfurt am Main?"
+  },
+  {
+    "timestamp": "2025-06-30T17:00:28.141102",
+    "role": "assistant",
+    "text": "It's a lovely day in Frankfurt am Main! Currently, the temperature is 30.49\u00b0C with 30% humidity and a gentle breeze of 3.74 m/s. The sky is clear, making it perfect for outdoor activities.\n\nLooking ahead, the forecast suggests that the temperature will drop slightly as the day progresses, but it will still be quite warm. Tonight, you can expect the temperature to dip to around 24.73\u00b0C with scattered clouds.\n\nTomorrow, the sky will be a mix of broken and overcast clouds, with temperatures ranging from 20.43\u00b0C to 23.33\u00b0C.\n\nI hope that helps you plan your day in Frankfurt am Main!"
+  },
+  {
+    "timestamp": "2025-06-30T17:00:28.169754",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

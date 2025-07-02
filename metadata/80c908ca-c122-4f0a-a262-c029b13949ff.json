@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:39:00.261686",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:39:00.266370",
+    "role": "user",
+    "text": "whats the weather in delhi"
+  },
+  {
+    "timestamp": "2025-06-30T17:39:01.889294",
+    "role": "assistant",
+    "text": "Thank you for providing the tool call result!\n\nSo, in Delhi, India, as of Monday, June 30, 2025, 17:33, the current weather is:\n\n* Temperature: 25.02\u00b0C\n* Humidity: 87%\n* Clouds: 100% (overcast clouds)\n* Wind Speed: 2.09 m/s\n\nAnd for the rest of the day and tomorrow, here's the forecast:\n\n* 18:00: Heavy intensity rain, 25.02\u00b0C\n* 21:00: Moderate rain, 25.49\u00b0C\n* 00:00 (Tuesday): Light rain, 24.85\u00b0C\n* 03:00 (Tuesday): Light rain, 25.95\u00b0C\n* 06:00 (Tuesday): Light rain, 26.63\u00b0C\n\nLooks like it's going to be a rainy day in Delhi!"
+  },
+  {
+    "timestamp": "2025-06-30T17:39:01.921474",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]

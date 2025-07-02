@@ -1,0 +1,22 @@
+[
+  {
+    "timestamp": "2025-06-30T17:36:39.323669",
+    "role": "system",
+    "text": "WebSocket session started"
+  },
+  {
+    "timestamp": "2025-06-30T17:36:39.330459",
+    "role": "user",
+    "text": "whats the weather in delhi"
+  },
+  {
+    "timestamp": "2025-06-30T17:36:40.104326",
+    "role": "assistant",
+    "text": "Delhi!\n\nCurrently, in Delhi, it's a hot summer day with a temperature of 34.4\u00b0C and a humidity of 44%. The sky is mostly clear, with a gentle breeze of 3.6 m/s.\n\nFor the rest of the day, expect it to remain hot and sunny, with temperatures ranging from 33\u00b0C to 35\u00b0C. As the night falls, it will gradually cool down, becoming partly cloudy by midnight.\n\nLooking ahead to tomorrow, expect a similar hot and sunny day, with temperatures ranging from 28\u00b0C to 35\u00b0C. There's a slight chance of scattered clouds in the afternoon, but overall, it'll be a warm and sunny day in Delhi!"
+  },
+  {
+    "timestamp": "2025-06-30T17:36:40.141846",
+    "role": "system",
+    "text": "WebSocket disconnected"
+  }
+]
